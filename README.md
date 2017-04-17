@@ -1,7 +1,7 @@
-# test coverage for  [webtorrent (v0.98.16)](https://webtorrent.io)  [![npm package](https://img.shields.io/npm/v/npmtest-webtorrent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webtorrent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webtorrent.svg)](https://travis-ci.org/npmtest/node-npmtest-webtorrent)
+# test coverage for  [webtorrent (v0.98.18)](https://webtorrent.io)  [![npm package](https://img.shields.io/npm/v/npmtest-webtorrent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webtorrent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webtorrent.svg)](https://travis-ci.org/npmtest/node-npmtest-webtorrent)
 #### Streaming torrent client
 
-[![NPM](https://nodei.co/npm/webtorrent.png?downloads=true)](https://www.npmjs.com/package/webtorrent)
+[![NPM](https://nodei.co/npm/webtorrent.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webtorrent)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-webtorrent/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-webtorrent/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-webtorrent/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-webtorrent/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-webtorrent/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-webtorrent/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-webtorrent/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-webtorrent/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-webtorrent/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-webtorrent/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-webtorrent%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-webtorrent/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-webtorrent/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-webtorrent/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-webtorrent/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-webtorrent%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webtorrent/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-webtorrent/build/test-report.html](https://npmtest.github.io/node-npmtest-webtorrent/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-webtorrent/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-webtorrent/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-webtorrent/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-webtorrent/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-webtorrent/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webtorrent/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-webtorrent/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +34,6 @@
 {
     "author": {
         "name": "WebTorrent, LLC",
-        "email": "feross@webtorrent.io",
         "url": "https://webtorrent.io"
     },
     "browser": {
@@ -47,7 +52,7 @@
         ]
     },
     "bugs": {
-        "url": "https://github.com/feross/webtorrent/issues"
+        "url": "https://github.com/webtorrent/webtorrent/issues"
     },
     "dependencies": {
         "addr-to-ip-port": "^1.4.2",
@@ -112,13 +117,13 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "8594b4f760df322423369f9cc6c8e05d14cf31d5",
-        "tarball": "https://registry.npmjs.org/webtorrent/-/webtorrent-0.98.16.tgz"
+        "shasum": "d8e0e04a52af884e9cffa361cbe8c159a4cb6f98",
+        "tarball": "https://registry.npmjs.org/webtorrent/-/webtorrent-0.98.18.tgz"
     },
     "engines": {
         "node": ">=4"
     },
-    "gitHead": "873be1411054332d21b0e5b65f8508a243615a26",
+    "gitHead": "eb7ef40d80ebf7fa29188efe0580f2b0c5f3c95c",
     "homepage": "https://webtorrent.io",
     "keywords": [
         "bittorrent",
@@ -140,16 +145,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "feross",
-            "email": "feross@feross.org"
+            "name": "feross"
         }
     ],
     "name": "webtorrent",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
-        "url": "git://github.com/feross/webtorrent.git"
+        "url": "git://github.com/webtorrent/webtorrent.git"
     },
     "scripts": {
         "build": "browserify -s WebTorrent -e ./ | uglifyjs -c warnings=false -m > webtorrent.min.js",
@@ -162,7 +165,7 @@
         "test-node": "tape test/*.js test/node/*.js",
         "update-authors": "./bin/update-authors.sh"
     },
-    "version": "0.98.16"
+    "version": "0.98.18"
 }
 ```
 
