@@ -1,4 +1,7 @@
-# test coverage for  [webtorrent (v0.98.18)](https://webtorrent.io)  [![npm package](https://img.shields.io/npm/v/npmtest-webtorrent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webtorrent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webtorrent.svg)](https://travis-ci.org/npmtest/node-npmtest-webtorrent)
+# npmtest-webtorrent
+
+#### test coverage for  [webtorrent (v0.98.18)](https://webtorrent.io)  [![npm package](https://img.shields.io/npm/v/npmtest-webtorrent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webtorrent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webtorrent.svg)](https://travis-ci.org/npmtest/node-npmtest-webtorrent)
+
 #### Streaming torrent client
 
 [![NPM](https://nodei.co/npm/webtorrent.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webtorrent)
