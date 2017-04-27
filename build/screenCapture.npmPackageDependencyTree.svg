@@ -1,5 +1,5 @@
-<svg height="2542" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="2542" fill="#555" width="720"></rect>
+<svg height="2558" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2558" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26">9 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
@@ -30,13 +30,13 @@
 <tspan x="10" y="442">  │ │ └── wrappy@1.0.2 </tspan>
 <tspan x="10" y="458">  │ └─┬ piece-length@1.0.0 </tspan>
 <tspan x="10" y="474">  │   └── closest-to@2.0.0 </tspan>
-<tspan x="10" y="490">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="506">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="490">  ├─┬ debug@2.6.5 </tspan>
+<tspan x="10" y="506">  │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="522">  ├── end-of-stream@1.4.0 </tspan>
 <tspan x="10" y="538">  ├─┬ fs-chunk-store@1.6.5 </tspan>
 <tspan x="10" y="554">  │ ├─┬ mkdirp@0.5.1 </tspan>
 <tspan x="10" y="570">  │ │ └── minimist@0.0.8 </tspan>
-<tspan x="10" y="586">  │ ├─┬ random-access-file@1.6.1 </tspan>
+<tspan x="10" y="586">  │ ├─┬ random-access-file@1.7.0 </tspan>
 <tspan x="10" y="602">  │ │ └── buffer-alloc-unsafe@1.0.0 </tspan>
 <tspan x="10" y="618">  │ ├─┬ rimraf@2.6.1 </tspan>
 <tspan x="10" y="634">  │ │ └─┬ glob@7.1.1 </tspan>
@@ -64,7 +64,7 @@
 <tspan x="10" y="986">  ├─┬ parse-torrent@5.8.3 </tspan>
 <tspan x="10" y="1002">  │ ├── blob-to-buffer@1.2.6 </tspan>
 <tspan x="10" y="1018">  │ ├── get-stdin@5.0.1 </tspan>
-<tspan x="10" y="1034">  │ ├─┬ magnet-uri@5.1.6 </tspan>
+<tspan x="10" y="1034">  │ ├─┬ magnet-uri@5.1.7 </tspan>
 <tspan x="10" y="1050">  │ │ └── thirty-two@1.0.2 </tspan>
 <tspan x="10" y="1066">  │ └── parse-torrent-file@4.0.2 </tspan>
 <tspan x="10" y="1082">  ├── pump@1.0.2 </tspan>
@@ -93,7 +93,7 @@
 <tspan x="10" y="1450">  ├── run-parallel-limit@1.0.3 </tspan>
 <tspan x="10" y="1466">  ├── safe-buffer@5.0.1 </tspan>
 <tspan x="10" y="1482">  ├── simple-concat@1.0.0 </tspan>
-<tspan x="10" y="1498">  ├─┬ simple-get@2.5.1 </tspan>
+<tspan x="10" y="1498">  ├─┬ simple-get@2.6.0 </tspan>
 <tspan x="10" y="1514">  │ └── unzip-response@2.0.1 </tspan>
 <tspan x="10" y="1530">  ├─┬ simple-peer@8.1.0 </tspan>
 <tspan x="10" y="1546">  │ └── get-browser-rtc@1.0.2 </tspan>
@@ -105,7 +105,7 @@
 <tspan x="10" y="1642">  ├── stream-with-known-length-to-buffer@1.0.0 </tspan>
 <tspan x="10" y="1658">  ├─┬ torrent-discovery@8.3.1 </tspan>
 <tspan x="10" y="1674">  │ └─┬ bittorrent-tracker@9.2.2 </tspan>
-<tspan x="10" y="1690">  │   ├── bittorrent-peerid@1.1.1 </tspan>
+<tspan x="10" y="1690">  │   ├── bittorrent-peerid@1.2.0 </tspan>
 <tspan x="10" y="1706">  │   ├── bn.js@4.11.6 </tspan>
 <tspan x="10" y="1722">  │   ├─┬ bufferutil@3.0.0 </tspan>
 <tspan x="10" y="1738">  │   │ ├── bindings@1.2.1 </tspan>
@@ -116,10 +116,10 @@
 <tspan x="10" y="1818">  │   │   ├── node-abi@2.0.0 </tspan>
 <tspan x="10" y="1834">  │   │   ├── noop-logger@0.1.1 </tspan>
 <tspan x="10" y="1850">  │   │   ├─┬ npmlog@4.0.2 </tspan>
-<tspan x="10" y="1866">  │   │   │ ├─┬ are-we-there-yet@1.1.2 </tspan>
+<tspan x="10" y="1866">  │   │   │ ├─┬ are-we-there-yet@1.1.4 </tspan>
 <tspan x="10" y="1882">  │   │   │ │ └── delegates@1.0.0 </tspan>
 <tspan x="10" y="1898">  │   │   │ ├── console-control-strings@1.1.0 </tspan>
-<tspan x="10" y="1914">  │   │   │ ├─┬ gauge@2.7.3 </tspan>
+<tspan x="10" y="1914">  │   │   │ ├─┬ gauge@2.7.4 </tspan>
 <tspan x="10" y="1930">  │   │   │ │ ├── aproba@1.1.1 </tspan>
 <tspan x="10" y="1946">  │   │   │ │ ├── has-unicode@2.0.1 </tspan>
 <tspan x="10" y="1962">  │   │   │ │ ├── object-assign@4.1.1 </tspan>
@@ -146,17 +146,18 @@
 <tspan x="10" y="2298">  │   │   └── tunnel-agent@0.4.3 </tspan>
 <tspan x="10" y="2314">  │   ├── run-series@1.1.4 </tspan>
 <tspan x="10" y="2330">  │   ├── simple-websocket@5.0.2 </tspan>
-<tspan x="10" y="2346">  │   └─┬ ws@2.2.3 </tspan>
+<tspan x="10" y="2346">  │   └─┬ ws@2.3.1 </tspan>
 <tspan x="10" y="2362">  │     └── ultron@1.1.0 </tspan>
 <tspan x="10" y="2378">  ├── torrent-piece@1.1.1 </tspan>
 <tspan x="10" y="2394">  ├── uniq@1.0.1 </tspan>
 <tspan x="10" y="2410">  ├── unordered-array-remove@1.0.2 </tspan>
 <tspan x="10" y="2426">  ├── ut_metadata@3.0.10 </tspan>
-<tspan x="10" y="2442">  ├─┬ ut_pex@1.1.3 </tspan>
-<tspan x="10" y="2458">  │ ├─┬ compact2string@1.4.0 </tspan>
-<tspan x="10" y="2474">  │ │ └── ipaddr.js@1.3.0 </tspan>
-<tspan x="10" y="2490">  │ └── string2compact@1.2.2 </tspan>
-<tspan x="10" y="2506">  ├── xtend@4.0.1 </tspan>
-<tspan x="10" y="2522">  └── zero-fill@2.2.3</tspan>
+<tspan x="10" y="2442">  ├─┬ ut_pex@1.1.5 </tspan>
+<tspan x="10" y="2458">  │ ├── bencode@0.12.0 </tspan>
+<tspan x="10" y="2474">  │ ├─┬ compact2string@1.4.0 </tspan>
+<tspan x="10" y="2490">  │ │ └── ipaddr.js@1.3.0 </tspan>
+<tspan x="10" y="2506">  │ └── string2compact@1.2.2 </tspan>
+<tspan x="10" y="2522">  ├── xtend@4.0.1 </tspan>
+<tspan x="10" y="2538">  └── zero-fill@2.2.3</tspan>
 </text>
 </svg>
